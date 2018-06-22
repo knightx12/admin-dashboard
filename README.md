@@ -1,2 +1,2 @@
 # admin-dashboard
-A Admin Dashboard based on Gentelella
+An Admin Dashboard based on Gentelella
